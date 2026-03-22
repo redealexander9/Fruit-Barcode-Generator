@@ -1,7 +1,7 @@
 export const fruits = [
     {
         name: "Green Bell Pepper",
-        image: "../images/greenBellPepper.jpg",
+        image: "images/greenBellPepper.jpg",
         barcode: "000000004065"
     },
     {
