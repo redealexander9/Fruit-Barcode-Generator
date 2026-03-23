@@ -33,5 +33,20 @@ export const fruits = [
         name: "Avocado",
         image: "images/avocado.jpg",
         barcode: "000000004046"
+    },
+    {
+        name: "Peach",
+        image: "images/peach.jpg",
+        barcode: "000000004038"
+    },
+    {
+        name: "Dragonfruit",
+        image: "images/dragonfruit.jpg",
+        barcode: "000000003040"
+    },
+    {
+        name: "Canteloupe",
+        image: "images/canteloupe.jpg",
+        barcode: "000000004050"
     }
 ]
