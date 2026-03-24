@@ -14,7 +14,8 @@ function getImageSource(name){
 }
 
 function generateBarcode(fruit){
-    JsBarcode("#barcode", fruit.barcode, {
+    let fullBarcode = "00000000" + fruit.barcode;
+    JsBarcode("#barcode", fullBarcode, {
         format: "ean13"
     });
 }

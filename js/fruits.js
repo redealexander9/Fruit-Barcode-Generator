@@ -2,51 +2,66 @@ export const fruits = [
     {
         name: "Green Bell Pepper",
         image: "images/greenBellPepper.jpg",
-        barcode: "000000004065"
+        barcode: "4065"
     },
     {
         name: "Red Bell Pepper",
         image: "images/redBellPepper.jpg",
-        barcode: "000000004688"
+        barcode: "4688"
     },
     {
         name: "Red Mango",
         image: "images/redMango.jpg",
-        barcode: "000000004959"
+        barcode: "4959"
     },
     {
         name: "Lime",
         image: "images/lime.jpg",
-        barcode: "0000000040488"
+        barcode: "4048"
     },
     {
         name: "Lemon",
         image: "images/lemon.jpg",
-        barcode: "000000004033"
+        barcode: "4033"
     },
     {
         name: "Orange",
         image: "images/orange.jpg",
-        barcode: "000000003107"
+        barcode: "3107"
     },
     {
         name: "Avocado",
         image: "images/avocado.jpg",
-        barcode: "000000004046"
+        barcode: "4046"
     },
     {
         name: "Peach",
         image: "images/peach.jpg",
-        barcode: "000000004038"
+        barcode: "4038"
     },
     {
         name: "Dragonfruit",
         image: "images/dragonfruit.jpg",
-        barcode: "000000003040"
+        barcode: "3040"
     },
     {
         name: "Canteloupe",
         image: "images/canteloupe.jpg",
-        barcode: "000000004050"
+        barcode: "4050"
+    },
+    {
+        name: "Cucumber",
+        image: "images/cucumber.jpg",
+        barcode: "4062"
+    },
+    {
+        name: "English Cucumber",
+        image: "images/englishCucumber.jpg",
+        barcode: "4593"
+    },
+    {
+        name: "Orange Bell Pepper",
+        image: "images/orangeBellPepper.jpg",
+        barcode: "3121"
     }
 ]
