@@ -3,6 +3,11 @@
 #fruit-list{
   list-style-type: none;
   padding: 0;
+  
+}
+
+.fruit-item:not(:last-child){
+  margin-bottom: 50px;
 }
 
 img {
@@ -26,6 +31,11 @@ h1{
   text-align: center;
 }
 
-svg{
+svg{  /* Border for barcode */
   border: 1px solid black;
+}
+
+h3 {
+  margin-top: 0px;
+  margin-bottom: 0px;
 }

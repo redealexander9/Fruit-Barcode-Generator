@@ -9,7 +9,7 @@ const list = document.getElementById("fruit-list");
         item.innerHTML = `
         
         <a href="index2.html?fruit=${fruit.name}">
-        <img class="imageClass" src=${fruit.image}>
+        <img class="imageClass" src=${fruit.image} alt="${fruit.name}">
         <h3 class="text">${fruit.name}</h3>
         </a>
         

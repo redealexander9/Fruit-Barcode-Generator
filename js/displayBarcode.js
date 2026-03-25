@@ -6,6 +6,7 @@ const title = document.getElementById("title");
 title.innerHTML = fruitName;
 const img = document.getElementById("image");
 img.src = getImageSource(fruitName);
+img.alt = fruitName;
 
 function getImageSource(name){
     const fruit = fruits.find(f => f.name === name);
