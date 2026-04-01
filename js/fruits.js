@@ -63,5 +63,15 @@ export const fruits = [
         name: "Orange Bell Pepper",
         image: "images/orangeBellPepper.jpg",
         barcode: "3121"
+    },
+    {
+        name: "Green Onion",
+        image: "images/greenOnion.jpg",
+        barcode: "003338360503"
+    },
+    {
+        name: "Garlic Bulb",
+        image: "images/garlic.jpg",
+        barcode: "4611"
     }
 ]
