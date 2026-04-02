@@ -73,5 +73,15 @@ export const fruits = [
         name: "Garlic Bulb",
         image: "images/garlic.jpg",
         barcode: "4611"
+    },
+    {
+        name: "Devil's Food Cake Mix",
+        image: "images/devilsFood.jpg",
+        barcode: "007874230881"
+    },
+    {
+        name: "Yellow Mango",
+        image: "images/yellowMango.jpg",
+        barcode: "4312"
     }
 ]
