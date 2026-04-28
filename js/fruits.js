@@ -1,4 +1,4 @@
-export const fruits = [
+ export const fruits = [
     {
         name: "Green Bell Pepper",
         image: "images/greenBellPepper.jpg",
