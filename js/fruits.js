@@ -91,7 +91,7 @@
     },
     {
         name: "Grapefruit",
-        image: "images/nectarine.jpg,
+        image: "images/nectarine.jpg",
         barcode: "4286"
     }
 ]
